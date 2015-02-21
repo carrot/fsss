@@ -1,0 +1,19 @@
+{
+  "name": "fsss",
+  "version": "0.0.1",
+  "author": "Carrot Creative <dev@carrotcreative.com>",
+  "description": "Node fs(); returns promises.",
+  "license": "MIT",
+  "keywords": [
+    "fs",
+    "promise"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/carrot/fsss.git"
+  },
+  "main": "lib",
+  "dependencies": {
+    "bluebird": "^2.9.12"
+  }
+}
